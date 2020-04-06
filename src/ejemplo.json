@@ -1,0 +1,16 @@
+[
+	{
+		"id": 1,
+		"titulo": "Rambo",
+		"director": "victor",
+		"year": "1988",
+		"rating": "8.9"
+	},
+	{
+		"id": 2,
+		"titulo": "Luna",
+		"director": "manuel",
+		"year": "2000",
+		"rating": "10"
+	}
+]
